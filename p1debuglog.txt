@@ -1,1 +1,7 @@
-
+ gcc -g p1final.c
+ ./a.out
+enter the num and den:
+1 2
+enter another num and den:
+1 4
+the sum of 1/2 + 1/4=3/4
